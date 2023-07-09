@@ -139,7 +139,7 @@ a.link-to-book:hover {
     display: block;
 }
 
-@media (min-width:577px) and (max-width: 800px) {
+@media (min-width:577px) and (max-width: 820px) {
 
     .section-intro {
         height: 500px;
