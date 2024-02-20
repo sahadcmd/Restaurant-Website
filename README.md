@@ -26,6 +26,7 @@ The user-friendly interface of this website makes it effortless for customers to
 * `HTML5`
 * `CSS3`
 * `JavaScript`
+* `Bootstrap`
 * `jQuery`
 
 ## How it looks 📷
