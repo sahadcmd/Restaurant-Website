@@ -1,5 +1,5 @@
 <div align = "center">
-    <img src="./Image/favicon.png" alt="Logo" width="150px">
+    <img src="./Image/favicon.png" alt="Logo" width="50px">
 </div>
 
 <h1 align = "center"><b>Restaurant Website</b></h1>
@@ -13,13 +13,22 @@
 </p>
 
 
+## About this project 🚀
+
 This Restaurant website boasts a cutting-edge responsive design, meticulously crafted to deliver an unparalleled browsing experience that remains consistent across various devices. Whether you're browsing on a desktop, laptop, tablet, or smartphone, this website adapts seamlessly to the screen size, ensuring optimal usability and visual appeal.
 
 The user-friendly interface of this website makes it effortless for customers to navigate and with just a few clicks, patrons can easily make reservations and book their desired dining experience directly online.
 
 <br>
 
-## Preview
+## Technologies 🛠️
+
+* `HTML5`
+* `CSS3`
+* `JavaScript`
+* `jQuery`
+
+## How it looks 📷
 
 <div align="center">
     <img src="./Image/Preview/Screenshot.png">
