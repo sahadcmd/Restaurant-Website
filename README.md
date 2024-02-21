@@ -13,7 +13,7 @@
 </p>
 
 
-## About this project 🚀
+## About this project  🚀
 
 This Restaurant website boasts a cutting-edge responsive design, meticulously crafted to deliver an unparalleled browsing experience that remains consistent across various devices. Whether you're browsing on a desktop, laptop, tablet, or smartphone, this website adapts seamlessly to the screen size, ensuring optimal usability and visual appeal.
 
@@ -21,7 +21,7 @@ The user-friendly interface of this website makes it effortless for customers to
 
 <br>
 
-## Technologies 🛠️
+## Technologies  🛠️
 
 * `HTML5`
 * `CSS3`
@@ -29,7 +29,7 @@ The user-friendly interface of this website makes it effortless for customers to
 * `Bootstrap`
 * `jQuery`
 
-## How it looks 📷
+## How it looks  📷
 
 <div align="center">
     <img src="./Image/Preview/Screenshot.png">
